@@ -10,8 +10,9 @@ h1{
 }
 section{
     display: flex;
-    /* pasapasi rakhar jnno flex use kra hyece */
+    margin-bottom: 150px;
 }
+    /* pasapasi rakhar jnno flex use kra hyece */
 .half-width{
   width: 50%; 
   padding-left: 5%; 
@@ -32,4 +33,10 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    /* sudhu evabe rakhle repeat hbe tai nicher ta dite hbe*/
+    background-repeat: no-repeat;
+    background-position: right;
 }
