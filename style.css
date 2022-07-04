@@ -18,7 +18,8 @@ h2{
     /* pasapasi rakhar jnno flex use kra hyece */
 .half-width{
   width: 50%; 
-  padding-left: 5%; 
+  padding-left: 5%;
+  margin: 10px; 
 }
 /* oprdhek jayga neyar jnno half-width use kra hyece */
 .half-width img{ 
@@ -64,4 +65,7 @@ h2{
 }
 footer{
     text-align: center;
+}
+.img-t img{
+    width: 100%;
 }
